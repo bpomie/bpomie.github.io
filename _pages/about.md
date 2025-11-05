@@ -22,4 +22,6 @@ One special thing about humans is that, unlike other animals, we spend lots of o
 
 If you would like to learn more or collaborate, please do get in touch!
 
-<i>Short bio</i>. I am currently a postdoctoral scientist at <a href="https://cdc.ceu.edu/">CEU Cognitive Development Center</a>, where I work with Gergely Csibra. Previously, I was a postdoctoral fellow with Agnes Kovacs and Erno Teglas. I completed my PhD in developmental cognitive neuroscience at <a href="http://cbcd.bbk.ac.uk/"> Centre for Brain and Cognitive Development</a> at Birkbeck, University of London under the supervision of <b><a href = ""> Teodora Gliga</a></b>. My dissertation looked at the interactions between word learning and concepts during the first year of life.
+<i>Short bio</i>. I am currently an assistant professor at 
+
+#<a href="https://cdc.ceu.edu/">CEU Cognitive Development Center</a>, where I work with Gergely Csibra. Previously, I was a postdoctoral fellow with Agnes Kovacs and Erno Teglas. I completed my PhD in developmental cognitive neuroscience at <a href="http://cbcd.bbk.ac.uk/"> Centre for Brain and Cognitive Development</a> at Birkbeck, University of London under the supervision of <b><a href = ""> Teodora Gliga</a></b>. My dissertation looked at the interactions between word learning and concepts during the first year of life.
